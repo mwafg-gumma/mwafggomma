@@ -9,6 +9,7 @@
 ⚡ Fun fact: I once tried to build my own E-commerce - but ended up watching tutorials more than making the app 😂
 
 ##  Socials:
+https://www.instagram.com/mwafg249/?hl=en
 
 
 # 💻 Tech Stack:
