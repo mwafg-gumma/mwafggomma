@@ -9,7 +9,7 @@
 ⚡ Fun fact: I once tried to build my own E-commerce - but ended up watching tutorials more than making the app 😂
 
 ##  Socials:
-faceBoock: https://www.instagram.com/mwafg249/?hl=en
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mwafg249/?hl=en)
 
 
 # 💻 Tech Stack:
