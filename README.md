@@ -10,6 +10,7 @@
 
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mwafg249/?hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/mwafg249/?hl=en](https://www.facebook.com/muafaq.g.maa/))
 
 
 # 💻 Tech Stack:
